@@ -1,6 +1,7 @@
 ### How is a page rendered?
 
-![test](https://media.vlpt.us/images/st2702/post/5d3a7396-b2d3-4a0b-a7a6-e8dc1407b9c4/스크린샷 2020-09-26 오후 4.48.38.png)
+![test](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ad56ebff-0d17-4d19-8371-647311352d79/_2020-09-26__4.48.38.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210411%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210411T030314Z&X-Amz-Expires=86400&X-Amz-Signature=5389ccd257dae5800d430f75e098e8f412164a51d01a3b7f1199e86275499afc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_2020-09-26__4.48.38.png%22)
+
 
 Let me explain how browser rendering works. 
 
