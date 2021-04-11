@@ -23,7 +23,6 @@ The browser looks up the DNS to find the right place to connect, make a TCP conn
 
 **[5]** The browser uses the output from the layout and "paints" the pixel on the screen.
 
-- 내용
 
 Reference :
 
