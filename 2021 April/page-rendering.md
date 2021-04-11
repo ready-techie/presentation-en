@@ -1,5 +1,7 @@
 ### How is a page rendered?
 
+![test](https://media.vlpt.us/images/st2702/post/5d3a7396-b2d3-4a0b-a7a6-e8dc1407b9c4/스크린샷 2020-09-26 오후 4.48.38.png)
+
 Let me explain how browser rendering works. 
 
 At first, Browser load the data.
