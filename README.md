@@ -1,3 +1,5 @@
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+
 # 🎉 Tech presentation in English
 - Enhance business english skills
 - Visit our [Wiki](https://github.com/ready-techie/presentation-en/wiki) for meetup records
