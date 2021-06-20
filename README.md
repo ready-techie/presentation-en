@@ -15,6 +15,8 @@
 - Make a 5~20min presentation and Q&A session
 - Add your document on this repository, LinkedIn Slide if preferred!
 
+## Contributors
+
 ## 🤓Members
 | [Anne](https://github.com/AnneMayor) | [Bin](https://github.com/vivabin) | [Hailey](https://github.com/hailey99) | [Nicky](https://github.com/wooooooood) |
 | :---: | :---: | :---: | :---: |
