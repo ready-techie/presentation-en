@@ -24,7 +24,3 @@
     <td align="center"><a href="https://github.com/wooooooood"><img src="https://avatars.githubusercontent.com/u/40855076?v=4" width="100px" alt=""/><br /><sub><b>Nicky</b></sub></a><br /></a></td>
   </tr>
  </table>
-
-## 🤓Members
-| [Anne](https://github.com/AnneMayor) | [Bin](https://github.com/vivabin) | [Hailey](https://github.com/hailey99) | [Nicky](https://github.com/wooooooood) |
-| :---: | :---: | :---: | :---: |
