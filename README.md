@@ -15,6 +15,12 @@
 - Make a 5~20min presentation and Q&A session
 - Add your document on this repository, LinkedIn Slide if preferred!
 
-## 🤓Members
-| [Anne](https://github.com/AnneMayor) | [Bin](https://github.com/vivabin) | [Hailey](https://github.com/hailey99) | [Nicky](https://github.com/wooooooood) |
-| :---: | :---: | :---: | :---: |
+## &#10024;Contributors&#10024;
+<table>
+  <tr>
+    <td align="center"><a href="https://velog.io/@pranne1224"><img src="https://avatars.githubusercontent.com/u/15176192?v=4?" width="100px" alt=""/><br /><sub><b>Anne</b></sub></a><br /></a></td>
+    <td align="center"><a href="https://github.com/wooooooood"><img src="https://avatars.githubusercontent.com/u/40855076?v=4" width="100px" alt=""/><br /><sub><b>Nicky</b></sub></a><br /></a></td>
+    <td align="center"><a href="https://github.com/wooooooood"><img src="https://avatars.githubusercontent.com/u/40855076?v=4" width="100px" alt=""/><br /><sub><b>Nicky</b></sub></a><br /></a></td>
+    <td align="center"><a href="https://github.com/wooooooood"><img src="https://avatars.githubusercontent.com/u/40855076?v=4" width="100px" alt=""/><br /><sub><b>Nicky</b></sub></a><br /></a></td>
+  </tr>
+ </table>
