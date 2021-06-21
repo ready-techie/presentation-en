@@ -1,4 +1,6 @@
 {
+  "projectName": "presentation-en",
+  "projectOwner": "ready-techie",
   "files": [
     "README.md"
   ],
@@ -50,8 +52,6 @@
       ]
     }
   ],
-  "projectName": "presentation-en",
-  "projectOwner": "ready-techie",
   "repoType": "github",
   "repoHost": "https://github.com"
 }
