@@ -16,6 +16,10 @@
 - Add your document on this repository, LinkedIn Slide if preferred!
 
 ## &#10024;Contributors&#10024;
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://velog.io/@pranne1224"><img src="https://avatars.githubusercontent.com/u/15176192?v=4?" width="100px" alt=""/><br /><sub><b>Anne</b></sub></a><br /></a></td>
@@ -24,3 +28,8 @@
     <td align="center"><a href="https://github.com/wooooooood"><img src="https://avatars.githubusercontent.com/u/40855076?v=4" width="100px" alt=""/><br /><sub><b>Nicky</b></sub></a><br /></a></td>
   </tr>
  </table>
+ 
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
