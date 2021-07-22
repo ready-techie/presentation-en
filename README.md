@@ -26,6 +26,7 @@
     <td align="center"><a href="https://github.com/vivabin"><img src="https://avatars.githubusercontent.com/u/20276599?v=4" width="100px" alt=""/><br /><sub><b>Vivian</b></sub></a><br /></a></td>
     <td align="center"><a href="https://github.com/hailey99"><img src="https://avatars.githubusercontent.com/u/50111853?v=4" width="100px" alt=""/><br /><sub><b>Hailey</b></sub></a><br /></a></td>
     <td align="center"><a href="https://github.com/wooooooood"><img src="https://avatars.githubusercontent.com/u/40855076?v=4" width="100px" alt=""/><br /><sub><b>Nicky</b></sub></a><br /></a></td>
+    <td align="center"><a href="https://heejaedev.github.io/"><img src="https://avatars.githubusercontent.com/u/47102119?v=4" width="100px" alt=""/><br /><sub><b>Celina</b></sub></a><br /></a></td>
   </tr>
  </table>
  
