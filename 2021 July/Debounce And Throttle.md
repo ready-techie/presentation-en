@@ -6,8 +6,6 @@ Debounce and throttling looks simmilar , but they can be used depending on where
 
 ## Debounce
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/542ab2dc-7bfa-4b24-a5b1-a08ec4100695/debounce.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/542ab2dc-7bfa-4b24-a5b1-a08ec4100695/debounce.png)
-
 - The Debounce technique allow us to `group` multiple calls in a single one.
 - Invoke only the first or the last funciton of the functions that are called one after another.
 - The request is executed after period of time.
@@ -36,3 +34,29 @@ For example
 - But the throttle, when the input begins, continues to run a regular intervals.
 
 You can use it according to your purpose.
+
+### Reference
+
+- vanilla js 이용한 기본예제
+
+[https://gomakethings.com/debouncing-vs.-throttling-with-vanilla-js/](https://gomakethings.com/debouncing-vs.-throttling-with-vanilla-js/)
+
+- React loadsh 사용한 예제
+
+[https://dmitripavlutin.com/react-throttle-debounce/](https://dmitripavlutin.com/react-throttle-debounce/)
+
+- ladash 다양한 예제가 있음
+
+[https://css-tricks.com/debouncing-throttling-explained-examples/](https://css-tricks.com/debouncing-throttling-explained-examples/)
+
+- vanilla js (긴내용)
+
+[https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript](https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript)
+
+- 다양한 라이브러리 설명해주는 한국문서
+
+[https://pks2974.medium.com/throttle-와-debounce-개념-정리하기-2335a9c426ff](https://pks2974.medium.com/throttle-%EC%99%80-debounce-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-2335a9c426ff)
+
+- debounce 뜻
+
+[https://whatis.techtarget.com/definition/debouncing](https://whatis.techtarget.com/definition/debouncing)
