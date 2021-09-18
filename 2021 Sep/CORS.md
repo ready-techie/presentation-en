@@ -1,6 +1,6 @@
 While using APIs during your project, you might have faced this error in your browser console.
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ab36830d-5770-434a-943b-d870d9b48ebb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210916T235126Z&X-Amz-Expires=86400&X-Amz-Signature=b438361a48013f7d3d2e1b01f5c4c03976cd8d7cd754be4de764062c31607152&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![err](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ab36830d-5770-434a-943b-d870d9b48ebb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210918%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210918T135839Z&X-Amz-Expires=86400&X-Amz-Signature=836e7dc3b79760222271742f762c8c48876b5f109ef82b5d05275907c362d3ab&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 ## What is CORS?
 
