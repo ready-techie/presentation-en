@@ -1,7 +1,7 @@
 # TCP - Nagle's Algorithm
 
 Created: September 29, 2021
-Created by: Anonymous
+Created by: Lee Anne
 Tags: Network
 
 - A means of improving TCP/IP network by reducing the number of packets that need to be sent over the network.
