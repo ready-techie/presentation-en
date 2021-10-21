@@ -22,14 +22,15 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://velog.io/@pranne1224"><img src="https://avatars.githubusercontent.com/u/15176192?v=4?" width="100px" alt=""/><br /><sub><b>Anne</b></sub></a><br /></a></td>
-    <td align="center"><a href="https://github.com/vivabin"><img src="https://avatars.githubusercontent.com/u/20276599?v=4" width="100px" alt=""/><br /><sub><b>Vivian</b></sub></a><br /></a></td>
-    <td align="center"><a href="https://github.com/hailey99"><img src="https://avatars.githubusercontent.com/u/50111853?v=4" width="100px" alt=""/><br /><sub><b>Hailey</b></sub></a><br /></a></td>
-    <td align="center"><a href="https://github.com/wooooooood"><img src="https://avatars.githubusercontent.com/u/40855076?v=4" width="100px" alt=""/><br /><sub><b>Nicky</b></sub></a><br /></a></td>
-    <td align="center"><a href="https://heejaedev.github.io/"><img src="https://avatars.githubusercontent.com/u/47102119?v=4" width="100px" alt=""/><br /><sub><b>Celina</b></sub></a><br /></a></td>
+    <td align="center"><a href="https://github.com/hailey99"><img src="https://avatars.githubusercontent.com/u/50111853?v=4" width="100px;" alt=""/><br /><sub><b>Hailey Park</b></sub></a></td>
+    <td align="center"><a href="https://github.com/vivabin"><img src="https://avatars.githubusercontent.com/u/20276599?v=4" width="100px;" alt=""/><br /><sub><b>Deveen</b></sub></a></td>
+    <td align="center"><a href="https://velog.io/@pranne1224"><img src="https://avatars.githubusercontent.com/u/15176192?v=4" width="100px;" alt=""/><br /><sub><b>AnneMayor</b></sub></a></td>
+    <td align="center"><a href="https://github.com/wooooooood"><img src="https://avatars.githubusercontent.com/u/40855076?v=4" width="100px;" alt=""/><br /><sub><b>wooooooood</b></sub></a></td>
+    <td align="center"><a href="https://heejaedev.github.io/"><img src="https://avatars.githubusercontent.com/u/47102119?v=4" width="100px;" alt=""/><br /><sub><b>heejae</b></sub></a></td>
+    <td align="center"><a href="https://limm-jk.tistory.com/"><img src="https://avatars.githubusercontent.com/u/57378834?v=4" width="100px;" alt=""/><br /><sub><b>Junkyu Lim</b></sub></a></td>
   </tr>
- </table>
- 
+</table>
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
