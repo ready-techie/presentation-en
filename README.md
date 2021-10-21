@@ -13,7 +13,7 @@
 ## 😎Guideline
 - Share organized document for previous feedbacks/questions before presentation
 - Make a 5~20min presentation and Q&A session
-- Add your document on this repository, LinkedIn Slide if preferred!
+- Add your document on this repository, LinkedIn Slide or your own tech blog if preferred!
 
 ## &#10024;Contributors&#10024;
 
