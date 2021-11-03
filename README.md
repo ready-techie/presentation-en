@@ -30,6 +30,9 @@
     <td align="center"><a href="https://limm-jk.tistory.com/"><img src="https://avatars.githubusercontent.com/u/57378834?v=4" width="100px;" alt=""/><br /><sub><b>Junkyu Lim</b></sub></a></td>
     <td align="center"><a href="https://github.com/TORU0239"><img src="https://avatars.githubusercontent.com/u/3125598?v=4" width="100px;" alt=""/><br /><sub><b>Wonyoung Choi</b></sub></a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/luvimperfection"><img src="https://avatars.githubusercontent.com/u/39628758?v=4" width="100px;" alt=""/><br /><sub><b>Jung In Choi</b></sub></a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
