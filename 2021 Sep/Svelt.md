@@ -4,7 +4,6 @@ The Svelte is a new approach front-end framework created by Rich Harris.
 
 It has been released up to version 3.
 
-![rich harris.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57eaa6a6-7fde-4921-9ca8-530493d57c5d/rich_harris.jpeg)
 
 - Nov 2016, 1.0 Release
 - Apr 2018, 2.0 Release
@@ -28,7 +27,7 @@ Much has changed since the version 3, and it has become popular.
 
 ## Stats
 
-- [https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
+
 
 According to the 2020 data, the satisfaction level was high in the order of Svelte, React, and Vue.js.
 
@@ -51,7 +50,6 @@ The awareness is still low.
 
 ## Features
 
-- [https://svelte.dev/](https://svelte.dev/)
 
 Let's take a look one by one 
 
@@ -60,8 +58,6 @@ Let's take a look one by one
 You can write less codes ! 
 
 - Compare Svelte, Vue, React Codes
-
-![스크린샷 2021-08-30 오후 3.36.44.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5d4f7d8-1ae6-4af9-bfa9-a74c3c405968/스크린샷_2021-08-30_오후_3.36.44.png)
 
 - It consists of two input boxes.
 - The first is Svelte, the second is Vue, and the third is React.
@@ -103,8 +99,6 @@ You can write less codes !
 ### No virtual DOM
 
 There is no virtual Document Object Model.
-
-![스크린샷 2021-08-30 오후 3.52.28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a6a623b-aae1-449b-b3de-7720a39045af/스크린샷_2021-08-30_오후_3.52.28.png)
 
 **No virtual DOM →** No Diffing
 
