@@ -16,7 +16,7 @@ Tags: Computer Architecture
 
 # How it works
 
-![Cache_동작원리](https://user-images.githubusercontent.com/15176192/148331459-fcae3119-ed15-40e3-aaea-2474e99b0b53.png)
+![Cache 동작원리 drawio](https://user-images.githubusercontent.com/15176192/148422227-7ebb15c5-8780-48bb-8052-53e8688ef7b2.png)
 
 # What kind of Cache?
 
