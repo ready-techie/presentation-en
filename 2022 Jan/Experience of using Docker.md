@@ -1,7 +1,7 @@
 # Experience of using Docker
 
 Created: January 26, 2022
-Created by: Anonymous
+Created by: Lee Anne
 Tags: Software Tool
 
 # What is Docker?
@@ -22,7 +22,7 @@ Tags: Software Tool
 
 ## Dockfile
 
-```jsx
+```console
 FROM openjdk:11
 LABEL description="Online Auction Platform, Sago"
 EXPOSE 8080
@@ -33,13 +33,13 @@ ENTRYPOINT [ "java", "-jar", "sago-in-image.jar" ]
 
 ## Docker Command
 
-```jsx
+```console
 docker build -t sago-test-img
 ```
 
 <img width="567" alt="Screen_Shot_2022-01-26_at_8 56 01_PM" src="https://user-images.githubusercontent.com/15176192/151260364-da6547d0-6a45-4452-8701-5ce2ab35f308.png">
 
-```jsx
+```console
 docker run sago-test-img
 ```
 
