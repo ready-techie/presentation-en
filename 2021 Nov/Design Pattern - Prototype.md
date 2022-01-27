@@ -1,7 +1,7 @@
 # Design Pattern - Prototype
 
 Created: October 25, 2021
-Created by: Anonymous
+Created by: Lee Anne
 Tags: Design_Pattern
 
 # Concept

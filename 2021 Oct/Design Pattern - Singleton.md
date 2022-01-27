@@ -1,7 +1,7 @@
 # Design Pattern - Singleton
 
 Created: October 14, 2021
-Created by: Anonymous
+Created by: Lee Anne
 Tags: Design_Pattern
 
 # Concept
