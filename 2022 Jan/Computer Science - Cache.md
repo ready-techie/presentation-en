@@ -1,7 +1,7 @@
 # Computer Science - Cache
 
 Created: January 5, 2022
-Created by: Anonymous
+Created by: Lee Anne
 Property: handles OS concept too
 Tags: Computer Architecture
 
