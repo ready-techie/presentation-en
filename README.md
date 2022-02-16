@@ -2,6 +2,7 @@
 - Enhance business english skills
 - Visit our [Wiki](https://github.com/ready-techie/presentation-en/wiki) for meetup records
 - [LinkedIn Group](https://www.linkedin.com/groups/13966089/) available
+- Check out [Slack](readytechie.slack.com) where we share daily insights
 
 ## 🤔What do we cover?
 - Any tech article/news
