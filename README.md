@@ -33,6 +33,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/luvimperfection"><img src="https://avatars.githubusercontent.com/u/39628758?v=4" width="100px;" alt=""/><br /><sub><b>Jung In Choi</b></sub></a></td>
+    <td align="center"><a href="https://github.com/RunLearn"><img src="https://avatars.githubusercontent.com/u/21242789?v=4" width="100px;" alt=""/><br /><sub><b>RunLearn</b></sub></a></td>
   </tr>
 </table>
 
